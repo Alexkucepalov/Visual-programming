@@ -1,0 +1,64 @@
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.exe
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.deps.json
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.runtimeconfig.json
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.runtimeconfig.dev.json
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.dll
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.pdb
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.Form1.resources
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.AssemblyInfo.cs
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.dll
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.pdb
+C:\Users\anton\Desktop\Study\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.genruntimeconfig.cache
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.exe
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.deps.json
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.runtimeconfig.json
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.runtimeconfig.dev.json
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.dll
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.pdb
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.Form1.resources
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.AssemblyInfo.cs
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.dll
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.pdb
+C:\Users\alexa\Desktop\VP\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.genruntimeconfig.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.exe
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.deps.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.runtimeconfig.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.runtimeconfig.dev.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.csproj.AssemblyReference.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.Form1.resources
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.csproj.GenerateResource.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.AssemblyInfoInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.AssemblyInfo.cs
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\C\C#\lab9\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.genruntimeconfig.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.exe
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.deps.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.runtimeconfig.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.runtimeconfig.dev.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\bin\Debug\netcoreapp3.1\Lab9.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.csproj.AssemblyReference.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.csproj.GenerateResource.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.AssemblyInfoInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.AssemblyInfo.cs
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.genruntimeconfig.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\Lab9\Lab9\obj\Debug\netcoreapp3.1\Lab9.lab9.resources

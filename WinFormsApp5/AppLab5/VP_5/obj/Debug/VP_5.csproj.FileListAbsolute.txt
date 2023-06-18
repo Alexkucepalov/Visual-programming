@@ -1,0 +1,70 @@
+C:\Users\Danil\source\repos\VP_5\VP_5\bin\Debug\VP_5.exe.config
+C:\Users\Danil\source\repos\VP_5\VP_5\bin\Debug\VP_5.exe
+C:\Users\Danil\source\repos\VP_5\VP_5\bin\Debug\VP_5.pdb
+C:\Users\Danil\source\repos\VP_5\VP_5\obj\Debug\VP_5.csproj.AssemblyReference.cache
+C:\Users\Danil\source\repos\VP_5\VP_5\obj\Debug\VP_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danil\source\repos\VP_5\VP_5\obj\Debug\VP_5.Form1.resources
+C:\Users\Danil\source\repos\VP_5\VP_5\obj\Debug\VP_5.Properties.Resources.resources
+C:\Users\Danil\source\repos\VP_5\VP_5\obj\Debug\VP_5.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\VP_5\VP_5\obj\Debug\VP_5.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\VP_5\VP_5\obj\Debug\VP_5.exe
+C:\Users\Danil\source\repos\VP_5\VP_5\obj\Debug\VP_5.pdb
+E:\Documents\для учёбы\лабораторные работы\5 семестр\Laba5\L5\VP_5\bin\Debug\VP_5.exe.config
+E:\Documents\для учёбы\лабораторные работы\5 семестр\Laba5\L5\VP_5\bin\Debug\VP_5.exe
+E:\Documents\для учёбы\лабораторные работы\5 семестр\Laba5\L5\VP_5\bin\Debug\VP_5.pdb
+E:\Documents\для учёбы\лабораторные работы\5 семестр\Laba5\L5\VP_5\obj\Debug\VP_5.csproj.AssemblyReference.cache
+E:\Documents\для учёбы\лабораторные работы\5 семестр\Laba5\L5\VP_5\obj\Debug\VP_5.csproj.SuggestedBindingRedirects.cache
+E:\Documents\для учёбы\лабораторные работы\5 семестр\Laba5\L5\VP_5\obj\Debug\VP_5.Form1.resources
+E:\Documents\для учёбы\лабораторные работы\5 семестр\Laba5\L5\VP_5\obj\Debug\VP_5.Properties.Resources.resources
+E:\Documents\для учёбы\лабораторные работы\5 семестр\Laba5\L5\VP_5\obj\Debug\VP_5.csproj.GenerateResource.cache
+E:\Documents\для учёбы\лабораторные работы\5 семестр\Laba5\L5\VP_5\obj\Debug\VP_5.csproj.CoreCompileInputs.cache
+E:\Documents\для учёбы\лабораторные работы\5 семестр\Laba5\L5\VP_5\obj\Debug\VP_5.exe
+E:\Documents\для учёбы\лабораторные работы\5 семестр\Laba5\L5\VP_5\obj\Debug\VP_5.pdb
+E:\Documents\для учёбы\лабораторные работы\5 семестр\визуалка\AppLab5\VP_5\bin\Debug\VP_5.exe.config
+E:\Documents\для учёбы\лабораторные работы\5 семестр\визуалка\AppLab5\VP_5\bin\Debug\VP_5.exe
+E:\Documents\для учёбы\лабораторные работы\5 семестр\визуалка\AppLab5\VP_5\bin\Debug\VP_5.pdb
+E:\Documents\для учёбы\лабораторные работы\5 семестр\визуалка\AppLab5\VP_5\obj\Debug\VP_5.csproj.AssemblyReference.cache
+E:\Documents\для учёбы\лабораторные работы\5 семестр\визуалка\AppLab5\VP_5\obj\Debug\VP_5.csproj.SuggestedBindingRedirects.cache
+E:\Documents\для учёбы\лабораторные работы\5 семестр\визуалка\AppLab5\VP_5\obj\Debug\VP_5.Form1.resources
+E:\Documents\для учёбы\лабораторные работы\5 семестр\визуалка\AppLab5\VP_5\obj\Debug\VP_5.Properties.Resources.resources
+E:\Documents\для учёбы\лабораторные работы\5 семестр\визуалка\AppLab5\VP_5\obj\Debug\VP_5.csproj.GenerateResource.cache
+E:\Documents\для учёбы\лабораторные работы\5 семестр\визуалка\AppLab5\VP_5\obj\Debug\VP_5.csproj.CoreCompileInputs.cache
+E:\Documents\для учёбы\лабораторные работы\5 семестр\визуалка\AppLab5\VP_5\obj\Debug\VP_5.exe
+E:\Documents\для учёбы\лабораторные работы\5 семестр\визуалка\AppLab5\VP_5\obj\Debug\VP_5.pdb
+E:\Documents\для учёбы\лабораторные работы\5 семестр\визуалка\AppLab5\VP_5\obj\Debug\VP_5.Form2.resources
+C:\Users\Slava\Desktop\VP\WinFormsApp5\AppLab5\VP_5\bin\Debug\VP_5.exe.config
+C:\Users\Slava\Desktop\VP\WinFormsApp5\AppLab5\VP_5\bin\Debug\VP_5.exe
+C:\Users\Slava\Desktop\VP\WinFormsApp5\AppLab5\VP_5\bin\Debug\VP_5.pdb
+C:\Users\Slava\Desktop\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.csproj.AssemblyReference.cache
+C:\Users\Slava\Desktop\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slava\Desktop\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.Form1.resources
+C:\Users\Slava\Desktop\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.Form2.resources
+C:\Users\Slava\Desktop\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.Properties.Resources.resources
+C:\Users\Slava\Desktop\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.csproj.GenerateResource.cache
+C:\Users\Slava\Desktop\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Desktop\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.exe
+C:\Users\Slava\Desktop\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp5\AppLab5\VP_5\bin\Debug\VP_5.exe.config
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp5\AppLab5\VP_5\bin\Debug\VP_5.exe
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp5\AppLab5\VP_5\bin\Debug\VP_5.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.csproj.AssemblyReference.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.Form1.resources
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.Form2.resources
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.Properties.Resources.resources
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.csproj.GenerateResource.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.csproj.CoreCompileInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.exe
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp5\AppLab5\VP_5\bin\Debug\VP_5.exe.config
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp5\AppLab5\VP_5\bin\Debug\VP_5.exe
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp5\AppLab5\VP_5\bin\Debug\VP_5.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.csproj.AssemblyReference.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.Form1.resources
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.Form2.resources
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.Properties.Resources.resources
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.csproj.GenerateResource.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.csproj.CoreCompileInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.exe
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp5\AppLab5\VP_5\obj\Debug\VP_5.pdb

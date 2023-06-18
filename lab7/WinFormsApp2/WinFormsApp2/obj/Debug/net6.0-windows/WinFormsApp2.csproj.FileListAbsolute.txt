@@ -1,0 +1,51 @@
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Slava\Desktop\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\7 лаба(переделанная 2)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll

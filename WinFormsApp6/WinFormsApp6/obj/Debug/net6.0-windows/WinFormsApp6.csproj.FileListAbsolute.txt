@@ -1,0 +1,72 @@
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Potentiometer.resources
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\Slava\Desktop\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Potentiometer.resources
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Potentiometer.resources
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\VP\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Potentiometer.resources
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\kucep\OneDrive - volsu.ru\Рабочий стол\Универ\Лабараторные\3 курс 1 семестр\Визуальное программирование\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
